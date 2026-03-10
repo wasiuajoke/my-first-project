@@ -1,4 +1,4 @@
-# Nginx Provisioning Project 🚀
+# Nginx Provisioning Project 
 
 This repository contains my first DevOps project. It automates the setup of an Ubuntu server with a pre-configured Nginx web server.
 
@@ -8,7 +8,7 @@ This repository contains my first DevOps project. It automates the setup of an U
 * **Nginx**: The web server software installed via script.
 * **setup.sh**: The provisioning script that does the heavy lifting.
 
-## 🚀 How to use
+##  How to use
 1. Open your terminal.
 2. Run `vagrant up`.
 3. Visit `http://192.168.33.10` in your browser.
